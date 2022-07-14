@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8CEE0504-0965-6765-7F66-8D032CB8F24D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Diamond.cs">
+    <Files>
+      <File FileName="Assets/scripts/GameManager.cs" Line="94" Column="6" IsPinned="True" />
+      <File FileName="Assets/scripts/movement.cs" Line="28" Column="13" IsPinned="True" />
+      <File FileName="Assets/scripts/Diamond.cs" Line="27" Column="10" />
+      <File FileName="Assets/scripts/Player.cs" Line="43" Column="7" />
+      <File FileName="Assets/scripts/blockScript.cs" Line="51" Column="41" />
+      <File FileName="Assets/scripts/pointBallScript.cs" Line="30" Column="37" />
+      <File FileName="Assets/scripts/sphere.cs" Line="10" Column="6" />
+      <File FileName="Assets/scripts/soundManager.cs" Line="5" Column="40" />
+      <File FileName="Assets/scripts/soundAssets.cs" Line="16" Column="40" />
+      <File FileName="Assets/scripts/singleton.cs" Line="60" Column="3" />
+      <File FileName="Assets/scripts/scoreText.cs" Line="11" Column="24" />
+      <File FileName="Assets/scripts/roadScript.cs" Line="153" Column="73" />
+      <File FileName="Assets/scripts/objectPool.cs" Line="44" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rollingBall" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="736c60c4-40db-48c5-8755-7ffb1b61b023" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
